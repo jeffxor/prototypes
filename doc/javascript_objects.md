@@ -272,6 +272,7 @@ Access to only public variables
 [Prototype In Plain Language](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)  
 [Methods Constructor Vs. Prootype](http://thecodeship.com/web-development/methods-within-constructor-vs-prototype-in-javascript/)  
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+http://ejohn.org/apps/learn/#64
 
 	
 	
